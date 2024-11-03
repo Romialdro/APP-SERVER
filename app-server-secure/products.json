@@ -1,0 +1,59 @@
+[
+    {
+        "name": "robot",
+        "description": "Descripción del Producto 1",
+        "image": "./sources/img/_41d6b8f7-a0ca-4318-b1f9-2a1716aa13eb.jpg",
+        "price": 100,
+        "category": "electronics"
+    },
+    {
+        "name": "Producto 2",
+        "description": "Descripción del Producto 2",
+        "image": "./sources/img/_e2ddbe5c-c014-46e6-b1a0-e66ece101b6e.jpg",
+        "price": 200,
+        "category": "clothing"
+    },
+    {
+        "name": "Producto 3",
+        "description": "Descripción del Producto 3",
+        "image": "./sources/img/_b21bbde9-f110-4121-a0d1-3d1d480fa127.jpg",
+        "price": 150,
+        "category": "electronics"
+    },
+    {
+        "name": "Producto 4",
+        "description": "Descripción del Producto 4",
+        "image": "./sources/img/_327b56e4-aab6-45e7-91ed-1350aa3bd551.jpg",
+        "price": 250,
+        "category": "clothing"
+    },
+    {
+        "name": "Robot",
+        "description": "Descripción del Robot",
+        "image": "./sources/img/_c059b535-c1c8-4ac5-94a3-effc8c66eb2b.jpg",
+        "price": 300,
+        "category": "robot"
+    },
+    {
+        "name": "Producto 5",
+        "description": "Descripción del Producto 5",
+        "image": "./sources/img/_9e41f334-e8c4-4b46-8baf-dfd30a88ca00.jpg",
+        "price": 350,
+        "category": "electronics"
+    },
+    {
+        "name": "Producto 6",
+        "description": "Descripción del Producto 6",
+        "image": "./sources/img/_11de4080-4835-4193-8eb4-e4a736b3384d.jpg",
+        "price": 400,
+        "category": "clothing"
+    },
+    {
+        "name": "Producto 7",
+        "description": "Descripción del Producto 7",
+        "image": "./sources/img/_1a2a2693-0fb9-4591-a23b-1cb2039d7f13.jpg",
+        "price": 450,
+        "category": "robot"
+    }
+]
+
